@@ -1,0 +1,1 @@
+I created a static portfolio website for myself using just html and css and made it responsive across diffrent device width.
